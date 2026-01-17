@@ -1,0 +1,13 @@
+T_min_mag
+T_posi_circ
+cha_1_T_amp
+cha_3_T_amp
+cha_4_T_amp
+cha_8_T_amp
+cha_10_T_amp
+cha_14_T_amp
+cha_25_ST_score
+cha_31_ST_score
+cha_32_ST_score
+cha_34_ST_score
+cha_35_ST_score
