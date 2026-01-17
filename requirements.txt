@@ -1,0 +1,7 @@
+# 必备核心依赖
+streamlit
+joblib
+# 项目配套依赖（按需保留，避免额外报错）
+pandas
+numpy
+scikit-learn
